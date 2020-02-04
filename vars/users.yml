@@ -1,8 +1,8 @@
 ---
 users:
-  - name: user1
+  - name: user1-208
     aws_groups: "sacramento, fresno, indio"
-  - name: user2
+  - name: user2-208
     aws_groups: "losangeles, sanfrancisco, napa"
-  - name: user3
+  - name: user3-208
     aws_groups: "palmsprings, indio, sandiego"
